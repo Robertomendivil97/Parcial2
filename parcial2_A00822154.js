@@ -4,6 +4,8 @@
 //A00822154
 //Roberto Mendívil
 
+//Uso de Maria DB con JavaScript
+
 //Agregamos paquete necesario para concetar DB
 var mysql = require('mysql');
 
